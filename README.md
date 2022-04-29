@@ -1,5 +1,7 @@
 # Poo-Poo-Pee-Pee-keyboard-carnival
-These files are for the gasket mount minivan case known as Poo poo pee pee keyboard carnival round three, with these files, and links, you should be able to produce your very own P4
+These files are for the gasket mount minivan case known as Poo poo pee pee keyboard carnival round three, with these files, and links, you should be able to produce your very own P4.
+
+DISCLAIMER: this is intended for CNC production with metal base. modify at your own risk.
 
 
 Here are the links for hardware and gaskets I used:
